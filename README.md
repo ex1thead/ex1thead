@@ -3,7 +3,6 @@
     <td valign="top" width="65%">
       <h3>I analyze, break, automate, repeat.</h3>
       <p>OSINT when curiosity kicks in.</p>
-      <p>Pentest when things need to be proven.</p>
       <p><b>Scripts over GUI. Logs over lies.</b></p>
       <br />
       <p><i>Bash fights usually end late.</i></p>
