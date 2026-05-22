@@ -13,9 +13,9 @@
 <table border="1" cellpadding="20" cellspacing="0" width="100%" style="border-collapse: collapse; border-color: #555;">
   <tr>
     <td valign="middle" width="55%" style="line-height: 1.6; font-size: 16px;">
-      I analyze, break, automate, repeat.<br>
-      OSINT when curiosity kicks in.<br>
-      Pentest when things need to be proven.<br>
+      I architect, break, optimize, repeat.<br>
+      Low-level when performance kicks in. <br>
+      Refactor when tech debt needs to be proven.<br>
       Scripts over GUI. Logs over lies.<br>
       <br>
       Bash fights usually end late.<br>
