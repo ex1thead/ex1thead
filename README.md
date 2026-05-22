@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ex1thead/web/refs/heads/main/WhatsApp%20Image%202026-05-23%20at%203.21.01%20AM.jpeg?token=GHSAT0AAAAAAD4TN2JHNB2TQPZBXKIMU4DW2QQ3AGA" width="60%" />
+  <img src="https://raw.githubusercontent.com/ex1thead/GITHUB-PROJECT/refs/heads/main/WhatsApp%20Image%202026-05-23%20at%203.27.15%20AM.jpeg" width="70%" />
 </p>
 
 <p align="center">
