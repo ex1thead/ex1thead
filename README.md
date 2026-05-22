@@ -24,7 +24,7 @@
       <p><b>"Present day. Present time."</b></p>
     </td>    
     <td valign="top" width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/S0cial-Lain/S0cial-Lain/main/img/lain_glitch.gif" width="100%" alt="Lain Glitch" style="border-radius: 4px;" />
+      <img src="https://camo.githubusercontent.com/83f6bcc226aeb7103b5230dbe2f194a3e8d4715237b30a6d16f4d81b8d1dd80a/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457862334e6a62575a6f6144527a656a5a6f636a593564473479633356764d33647365486f335a4868766557686864545a30626a55774f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f564c7a6245746c62774a55466c6a635262662f67697068792e676966" width="100%" alt="Lain Glitch" style="border-radius: 4px;" />
     </td>
   </tr>
 </table>
