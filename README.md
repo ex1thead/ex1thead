@@ -1,3 +1,9 @@
+<img src="https://i.pinimg.com/736x/6d/46/d9/6d46d9995f8e5f25297a743d12f62913.jpg" width="100%" />
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+
+...
+
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="65%">
@@ -11,7 +17,6 @@
       <p>Go Breaks like a falling glass</p>
       <p><b>"Present day. Present time."</b></p>
     </td>
-    
     <td valign="top" width="35%" align="center">
       <img src="https://raw.githubusercontent.com/S0cial-Lain/S0cial-Lain/main/img/lain_glitch.gif" width="100%" alt="Lain Glitch" style="border-radius: 4px;" />
     </td>
