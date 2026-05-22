@@ -22,8 +22,7 @@
       <br />
       <p>Go Breaks like a falling glass</p>
       <p><b>"Present day. Present time."</b></p>
-    </td>
-    
+    </td>    
     <td valign="top" width="40%" align="center">
       <img src="https://raw.githubusercontent.com/S0cial-Lain/S0cial-Lain/main/img/lain_glitch.gif" width="100%" alt="Lain Glitch" style="border-radius: 4px;" />
     </td>
