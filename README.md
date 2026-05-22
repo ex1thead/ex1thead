@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/6d/46/d9/6d46d9995f8e5f25297a743d12f62913.jpg" width="100%" />
+<img src="https://i.pinimg.com/736x/6d/46/d9/6d46d9995f8e5f25297a743d12f62913.jpg" width="50%" />
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
 
